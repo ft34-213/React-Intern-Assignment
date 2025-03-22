@@ -17,3 +17,11 @@ Styled Variable Tokens: Inserted variables are visually distinct and non-editabl
 Export Functionality: Save and retrieve formatted content.
 
 React Vite Setup: Fast and optimized development experience.
+
+Tech tools used :
+
+1.React
+2.Javascript
+3.CSS
+4.HTML
+5.Github
