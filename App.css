@@ -1,0 +1,16 @@
+h1{
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+  color: #8F87F1;
+  
+}
+editor-container{
+  display: flex;
+  justify-items: center;
+
+}
+
+div{
+  background-color: #EDE8DC;
+}
